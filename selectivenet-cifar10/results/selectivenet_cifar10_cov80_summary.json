@@ -1,0 +1,32 @@
+{
+  "experiment_name": "selectivenet_cifar10_cov80",
+  "seed": 42,
+  "target_coverage": 0.8,
+  "alpha": 0.5,
+  "batch_size": 128,
+  "epochs": 300,
+  "learning_rate": 0.1,
+  "best_weights_path": "/content/drive/MyDrive/selective_net_project/checkpoints/selectivenet_cifar10_cov80_best.weights.h5",
+  "last_weights_path": "/content/drive/MyDrive/selective_net_project/checkpoints/selectivenet_cifar10_cov80_last.weights.h5",
+  "history_path": "/content/drive/MyDrive/selective_net_project/histories/selectivenet_cifar10_cov80_history.pkl",
+  "figures_dir": "/content/drive/MyDrive/selective_net_project/figures",
+  "operating_threshold": 0.9777892231941223,
+  "operating_threshold_source": "validation_percentile",
+  "eval_results": {
+    "target_coverage": 0.8,
+    "validation_threshold_test_eval": {
+      "threshold": 0.9777892231941223,
+      "accepted_count": 7935,
+      "coverage": 0.7935,
+      "selective_accuracy": 0.989413988657845,
+      "selective_risk": 0.010586011342154977
+    },
+    "threshold_05": {
+      "accepted_count": 8311,
+      "coverage": 0.8311,
+      "selective_accuracy": 0.9855613042955119,
+      "selective_risk": 0.01443869570448808
+    },
+    "aux_head_accuracy": 0.9254
+  }
+}
