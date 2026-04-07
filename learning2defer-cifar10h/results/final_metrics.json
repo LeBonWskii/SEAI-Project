@@ -1,0 +1,826 @@
+{
+  "run_id": "20260405_220831",
+  "selected_alpha": 1.0,
+  "selected_threshold": -0.22143488580530332,
+  "freeze_backbone": true,
+  "metrics": {
+    "classifier_all_acc": 0.91,
+    "human_all_acc": 0.955,
+    "coverage": 0.7595000000000001,
+    "classifier_nondeferred_acc": 0.9802501645819618,
+    "human_deferred_acc": 0.9022869022869023,
+    "system_acc": 0.9615
+  },
+  "num_deferred": 481,
+  "num_nondeferred": 1519,
+  "curve": [
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.7595000000000001,
+      "classifier_nondeferred_acc": 0.9802501645819618,
+      "human_deferred_acc": 0.9022869022869023,
+      "system_acc": 0.9615
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.0004999999999999449,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9549774887443722,
+      "system_acc": 0.955
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.010499999999999954,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.954522486104093,
+      "system_acc": 0.955
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.020499999999999963,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9540581929555896,
+      "system_acc": 0.955
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.03049999999999997,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9535843218153688,
+      "system_acc": 0.955
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.04049999999999998,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9536216779572694,
+      "system_acc": 0.9555
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.05049999999999999,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9531332280147446,
+      "system_acc": 0.9555
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.061000000000000054,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9526091586794462,
+      "system_acc": 0.9555
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.07099999999999995,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9520990312163616,
+      "system_acc": 0.9555
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.08099999999999996,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9515778019586507,
+      "system_acc": 0.9555
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.09099999999999997,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9515951595159516,
+      "system_acc": 0.956
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.10099999999999998,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9521690767519466,
+      "system_acc": 0.957
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.11150000000000004,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9521665728756331,
+      "system_acc": 0.9575
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.12150000000000005,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9516220830961867,
+      "system_acc": 0.9575
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.13149999999999995,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9510650546919976,
+      "system_acc": 0.9575
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.14149999999999996,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9504950495049505,
+      "system_acc": 0.9575
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.15149999999999997,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9499116087212728,
+      "system_acc": 0.9575
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.16200000000000003,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9492840095465394,
+      "system_acc": 0.9575
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.17200000000000004,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9486714975845411,
+      "system_acc": 0.9575
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.18200000000000005,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9480440097799511,
+      "system_acc": 0.9575
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.19199999999999995,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9474009900990099,
+      "system_acc": 0.9575
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.20199999999999996,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9473684210526315,
+      "system_acc": 0.958
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.21250000000000002,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9473015873015873,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.22250000000000003,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9466237942122186,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.23250000000000004,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9459283387622149,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.24250000000000005,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9452145214521452,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.25249999999999995,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9444816053511705,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.26249999999999996,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.943728813559322,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.273,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9429160935350757,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.28300000000000003,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9421199442119944,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.29300000000000004,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9413012729844413,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.30300000000000005,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9404591104734576,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.31299999999999994,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9395924308588064,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.3235,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9386548410938654,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.3335,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9377344336084021,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.3435,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9367859862909368,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.35350000000000004,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9358081979891725,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.36350000000000005,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9347996857816182,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.374,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9337060702875399,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.384,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9326298701298701,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.394,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9323432343234324,
+      "system_acc": 0.959
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.404,
+      "classifier_nondeferred_acc": 1.0,
+      "human_deferred_acc": 0.9312080536912751,
+      "system_acc": 0.959
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.41400000000000003,
+      "classifier_nondeferred_acc": 0.998792270531401,
+      "human_deferred_acc": 0.9308873720136519,
+      "system_acc": 0.959
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.4245,
+      "classifier_nondeferred_acc": 0.9988221436984688,
+      "human_deferred_acc": 0.9313640312771503,
+      "system_acc": 0.96
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.4345,
+      "classifier_nondeferred_acc": 0.996547756041427,
+      "human_deferred_acc": 0.9310344827586207,
+      "system_acc": 0.9595
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.4445,
+      "classifier_nondeferred_acc": 0.9966254218222722,
+      "human_deferred_acc": 0.9297929792979298,
+      "system_acc": 0.9595
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.4545,
+      "classifier_nondeferred_acc": 0.9966996699669967,
+      "human_deferred_acc": 0.9294225481209899,
+      "system_acc": 0.96
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.4645,
+      "classifier_nondeferred_acc": 0.9967707212055974,
+      "human_deferred_acc": 0.9281045751633987,
+      "system_acc": 0.96
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.475,
+      "classifier_nondeferred_acc": 0.9968421052631579,
+      "human_deferred_acc": 0.9276190476190476,
+      "system_acc": 0.9605
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.485,
+      "classifier_nondeferred_acc": 0.9969072164948454,
+      "human_deferred_acc": 0.9262135922330097,
+      "system_acc": 0.9605
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.495,
+      "classifier_nondeferred_acc": 0.996969696969697,
+      "human_deferred_acc": 0.9247524752475248,
+      "system_acc": 0.9605
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.505,
+      "classifier_nondeferred_acc": 0.997029702970297,
+      "human_deferred_acc": 0.9252525252525252,
+      "system_acc": 0.9615
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.515,
+      "classifier_nondeferred_acc": 0.9970873786407767,
+      "human_deferred_acc": 0.9237113402061856,
+      "system_acc": 0.9615
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.525,
+      "classifier_nondeferred_acc": 0.9961904761904762,
+      "human_deferred_acc": 0.9221052631578948,
+      "system_acc": 0.961
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.5355,
+      "classifier_nondeferred_acc": 0.9953314659197012,
+      "human_deferred_acc": 0.9214208826695371,
+      "system_acc": 0.961
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.5455,
+      "classifier_nondeferred_acc": 0.995417048579285,
+      "human_deferred_acc": 0.9218921892189219,
+      "system_acc": 0.962
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.5555,
+      "classifier_nondeferred_acc": 0.9954995499549955,
+      "human_deferred_acc": 0.922384701912261,
+      "system_acc": 0.963
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.5655,
+      "classifier_nondeferred_acc": 0.9938107869142352,
+      "human_deferred_acc": 0.9217491369390104,
+      "system_acc": 0.9625
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.5755,
+      "classifier_nondeferred_acc": 0.9939183318853171,
+      "human_deferred_acc": 0.9234393404004712,
+      "system_acc": 0.964
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.5860000000000001,
+      "classifier_nondeferred_acc": 0.9940273037542662,
+      "human_deferred_acc": 0.9263285024154589,
+      "system_acc": 0.966
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.596,
+      "classifier_nondeferred_acc": 0.9941275167785235,
+      "human_deferred_acc": 0.9257425742574258,
+      "system_acc": 0.9665
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.606,
+      "classifier_nondeferred_acc": 0.9942244224422442,
+      "human_deferred_acc": 0.9251269035532995,
+      "system_acc": 0.967
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.616,
+      "classifier_nondeferred_acc": 0.9935064935064936,
+      "human_deferred_acc": 0.9231770833333334,
+      "system_acc": 0.9665
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.626,
+      "classifier_nondeferred_acc": 0.9936102236421726,
+      "human_deferred_acc": 0.9224598930481284,
+      "system_acc": 0.967
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.6365000000000001,
+      "classifier_nondeferred_acc": 0.992930086410055,
+      "human_deferred_acc": 0.921595598349381,
+      "system_acc": 0.967
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.6465000000000001,
+      "classifier_nondeferred_acc": 0.9922660479505027,
+      "human_deferred_acc": 0.9193776520509194,
+      "system_acc": 0.9665
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.6565,
+      "classifier_nondeferred_acc": 0.9900990099009901,
+      "human_deferred_acc": 0.9184861717612809,
+      "system_acc": 0.9655
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.6665,
+      "classifier_nondeferred_acc": 0.9902475618904726,
+      "human_deferred_acc": 0.9175412293853074,
+      "system_acc": 0.966
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.6765,
+      "classifier_nondeferred_acc": 0.9903917220990391,
+      "human_deferred_acc": 0.9149922720247295,
+      "system_acc": 0.966
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.687,
+      "classifier_nondeferred_acc": 0.9890829694323144,
+      "human_deferred_acc": 0.9121405750798722,
+      "system_acc": 0.965
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.6970000000000001,
+      "classifier_nondeferred_acc": 0.9892395982783357,
+      "human_deferred_acc": 0.9092409240924092,
+      "system_acc": 0.965
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.7070000000000001,
+      "classifier_nondeferred_acc": 0.9893917963224894,
+      "human_deferred_acc": 0.9061433447098977,
+      "system_acc": 0.965
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.7170000000000001,
+      "classifier_nondeferred_acc": 0.9888423988842399,
+      "human_deferred_acc": 0.9045936395759717,
+      "system_acc": 0.965
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.727,
+      "classifier_nondeferred_acc": 0.9862448418156808,
+      "human_deferred_acc": 0.9010989010989011,
+      "system_acc": 0.963
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.7375,
+      "classifier_nondeferred_acc": 0.9857627118644068,
+      "human_deferred_acc": 0.8990476190476191,
+      "system_acc": 0.963
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.7475,
+      "classifier_nondeferred_acc": 0.9832775919732442,
+      "human_deferred_acc": 0.899009900990099,
+      "system_acc": 0.962
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.7575000000000001,
+      "classifier_nondeferred_acc": 0.9808580858085808,
+      "human_deferred_acc": 0.9030927835051547,
+      "system_acc": 0.962
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.7675,
+      "classifier_nondeferred_acc": 0.9778501628664495,
+      "human_deferred_acc": 0.9032258064516129,
+      "system_acc": 0.9605
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.7775,
+      "classifier_nondeferred_acc": 0.97491961414791,
+      "human_deferred_acc": 0.9011235955056179,
+      "system_acc": 0.9585
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.7875,
+      "classifier_nondeferred_acc": 0.9726984126984127,
+      "human_deferred_acc": 0.9035294117647059,
+      "system_acc": 0.958
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.798,
+      "classifier_nondeferred_acc": 0.9711779448621554,
+      "human_deferred_acc": 0.8985148514851485,
+      "system_acc": 0.9565
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.808,
+      "classifier_nondeferred_acc": 0.9709158415841584,
+      "human_deferred_acc": 0.9036458333333334,
+      "system_acc": 0.958
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.8180000000000001,
+      "classifier_nondeferred_acc": 0.969437652811736,
+      "human_deferred_acc": 0.9010989010989011,
+      "system_acc": 0.957
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.8280000000000001,
+      "classifier_nondeferred_acc": 0.9667874396135265,
+      "human_deferred_acc": 0.9040697674418605,
+      "system_acc": 0.956
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.838,
+      "classifier_nondeferred_acc": 0.9647971360381862,
+      "human_deferred_acc": 0.8981481481481481,
+      "system_acc": 0.954
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.8485,
+      "classifier_nondeferred_acc": 0.9616971125515615,
+      "human_deferred_acc": 0.8943894389438944,
+      "system_acc": 0.9515
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.8585,
+      "classifier_nondeferred_acc": 0.9586488060570763,
+      "human_deferred_acc": 0.8975265017667845,
+      "system_acc": 0.95
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.8685,
+      "classifier_nondeferred_acc": 0.9562464018422567,
+      "human_deferred_acc": 0.8973384030418251,
+      "system_acc": 0.9485
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.8785000000000001,
+      "classifier_nondeferred_acc": 0.9533295389869095,
+      "human_deferred_acc": 0.9012345679012346,
+      "system_acc": 0.947
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.8885,
+      "classifier_nondeferred_acc": 0.9499155880697805,
+      "human_deferred_acc": 0.8968609865470852,
+      "system_acc": 0.944
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.899,
+      "classifier_nondeferred_acc": 0.9471635150166852,
+      "human_deferred_acc": 0.900990099009901,
+      "system_acc": 0.9425
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.909,
+      "classifier_nondeferred_acc": 0.9455445544554455,
+      "human_deferred_acc": 0.9010989010989011,
+      "system_acc": 0.9415
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.919,
+      "classifier_nondeferred_acc": 0.9434167573449401,
+      "human_deferred_acc": 0.8950617283950617,
+      "system_acc": 0.9395
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.929,
+      "classifier_nondeferred_acc": 0.9386437029063509,
+      "human_deferred_acc": 0.9014084507042254,
+      "system_acc": 0.936
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.9390000000000001,
+      "classifier_nondeferred_acc": 0.933972310969116,
+      "human_deferred_acc": 0.9098360655737705,
+      "system_acc": 0.9325
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.9495,
+      "classifier_nondeferred_acc": 0.9315429173249078,
+      "human_deferred_acc": 0.9108910891089109,
+      "system_acc": 0.9305
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.9595,
+      "classifier_nondeferred_acc": 0.9265242313705054,
+      "human_deferred_acc": 0.9135802469135802,
+      "system_acc": 0.926
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.9695,
+      "classifier_nondeferred_acc": 0.925219185146983,
+      "human_deferred_acc": 0.9016393442622951,
+      "system_acc": 0.9245
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.9795,
+      "classifier_nondeferred_acc": 0.9203675344563553,
+      "human_deferred_acc": 0.926829268292683,
+      "system_acc": 0.9205
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 0.9895,
+      "classifier_nondeferred_acc": 0.9140980293077312,
+      "human_deferred_acc": 0.9523809523809523,
+      "system_acc": 0.9145
+    },
+    {
+      "classifier_all_acc": 0.91,
+      "human_all_acc": 0.955,
+      "coverage": 1.0,
+      "classifier_nondeferred_acc": 0.91,
+      "human_deferred_acc": NaN,
+      "system_acc": 0.91
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "run_id": "20260405_220831",
+  "selected_alpha": 1.0,
+  "selected_threshold": -0.22143488580530332,
+  "freeze_backbone": true,
+  "classifier_all_acc": 0.91,
+  "human_all_acc": 0.955,
+  "coverage": 0.7595000000000001,
+  "classifier_nondeferred_acc": 0.9802501645819618,
+  "human_deferred_acc": 0.9022869022869023,
+  "system_acc": 0.9615,
+  "num_deferred": 481,
+  "num_nondeferred": 1519
+}
