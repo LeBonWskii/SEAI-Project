@@ -1,4 +1,4 @@
-# SEAI Project: Selective Classification and Learning to Defer
+# Selective Classification and Learning to Defer
 
 Project for the **Symbolic and Evolutionary Artificial Intelligence** course in the **MSc in Artificial Intelligence and Data Engineering, University of Pisa**.
 
